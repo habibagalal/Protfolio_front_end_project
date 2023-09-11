@@ -7,6 +7,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth; 
+    
 }
 
 
@@ -138,6 +139,7 @@ section {
     color: #3a6cf4;
     font-size: 8em;
     text-align: center;
+
 }
 
 .info {
